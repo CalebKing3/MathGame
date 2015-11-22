@@ -61,7 +61,7 @@
         android:layout_height="wrap_content"
         android:text="2"
         android:id="@+id/buttonChoice1"
-        android:textSize="40sp"
+        android:textSize="30sp"
         android:layout_alignParentBottom="true"
         android:layout_toLeftOf="@+id/buttonChoice2"
         android:layout_toStartOf="@+id/buttonChoice2"
@@ -74,7 +74,7 @@
         android:id="@+id/buttonChoice2"
         android:layout_alignBottom="@+id/buttonChoice1"
         android:layout_centerHorizontal="true"
-        android:textSize="40sp" />
+        android:textSize="30sp" />
 
     <Button
         android:layout_width="wrap_content"
@@ -84,5 +84,5 @@
         android:layout_alignBottom="@+id/buttonChoice2"
         android:layout_toRightOf="@+id/buttonChoice2"
         android:layout_toEndOf="@+id/buttonChoice2"
-        android:textSize="40sp" />
+        android:textSize="30sp" />
 </RelativeLayout>
